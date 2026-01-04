@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "GO GO サマー！",
+  "base_artist": "KARA",
+  "createdAt": "2026-01-04T16:14:17.222140Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go Go Gadget Flow",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/01_Go_Go_Gadget_Flow_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go Go Gadget Flow",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/02_Go_Go_Gadget_Flow_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Go Go Yuureisen",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_Go_Go_Yuureisen_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Go! Go! Go!",
+      "artist": "Roy Orbison",
+      "has_synced": false,
+      "path": "select/04_Go!_Go!_Go!_Roy_Orbison.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Big Go Go",
+      "artist": "INXS",
+      "has_synced": false,
+      "path": "select/05_Big_Go_Go_INXS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Go Go",
+      "artist": "Alphabeat",
+      "has_synced": true,
+      "path": "select/06_Go_Go_Alphabeat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Athoth a Go!! Go!!",
+      "artist": "Machine Girl",
+      "has_synced": true,
+      "path": "select/07_Athoth_a_Go!!_Go!!_Machine_Girl.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tokyo Á Go-Go",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/08_Tokyo_Á_Go-Go_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tokyo A Go-Go",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/09_Tokyo_A_Go-Go_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Who Shot the Go Go Dancer?",
+      "artist": "Moloko",
+      "has_synced": false,
+      "path": "select/10_Who_Shot_the_Go_Go_Dancer_Moloko.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If You Gotta Go, Go Now",
+      "artist": "Manfred Mann",
+      "has_synced": true,
+      "path": "select/11_If_You_Gotta_Go,_Go_Now_Manfred_Mann.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shah Shah a Go Go",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/12_Shah_Shah_a_Go_Go_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Ballad Of Go Go Brown",
+      "artist": "Heaven 17",
+      "has_synced": true,
+      "path": "select/13_The_Ballad_Of_Go_Go_Brown_Heaven_17.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nude Beach a Go-Go",
+      "artist": "Ariel Pink",
+      "has_synced": true,
+      "path": "select/14_Nude_Beach_a_Go-Go_Ariel_Pink.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Midnight a Go-Go",
+      "artist": "Beat Happening",
+      "has_synced": true,
+      "path": "select/15_Midnight_a_Go-Go_Beat_Happening.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "YouKnowIWantYou (Feat. Ricky A Go Go)",
+      "artist": "BONES",
+      "has_synced": true,
+      "path": "select/16_YouKnowIWantYou_(Feat._Ricky_A_Go_Go)_BONES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GO GO  サマー",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/pl_01_GO_GO_サマー_KARA.txt"
+    }
+  ]
+}
